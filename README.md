@@ -2,5 +2,6 @@
 Test repo that allows quick building of relationship organisation diagrams
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/thja-pml/OrgChart.git/HEAD)
-
+<a href="https://mybinder.org/v2/gh/thja-pml/OrgChart.git/HEAD" target="_blank">
+    <img src="https://mybinder.org/badge_logo.svg" alt="Binder">
+</a>
