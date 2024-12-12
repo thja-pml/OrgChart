@@ -1,0 +1,1 @@
+{"directed": true, "multigraph": false, "graph": [], "nodes": [{"id": "Person1"}, {"id": "Manager1"}, {"id": "Person2"}, {"id": "Manager2"}, {"id": "Person3"}, {"id": "Person 4"}, {"id": "Group Lead"}], "adjacency": [[], [{"id": "Person2"}, {"id": "Person1"}], [], [{"id": "Person3"}, {"id": "Person 4"}], [], [], [{"id": "Manager1"}, {"id": "Manager2"}]]}
